@@ -1,0 +1,11 @@
+#finish {
+    text-align: center;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+#finish h2,
+#finish p {
+    margin-bottom: 1rem;
+}
